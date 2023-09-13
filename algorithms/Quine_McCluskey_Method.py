@@ -11,6 +11,7 @@ Created on Sun Dec 20 23:47:40 2020
 3. determine the prime implicants
 4. determine prime implicant chart
 5. determine minimum solution using Petrick's method'''
+# !!step 4 and step 5 not done!!
 
 '''step 1. take in input'''
 #recieve input of minterm expression devided with commas
