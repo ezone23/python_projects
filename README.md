@@ -4,4 +4,4 @@ small python projects
 ## classification_system
 
 ## algorithms
-  - Quine McCluskey method.
+  - Quine McCluskey method
